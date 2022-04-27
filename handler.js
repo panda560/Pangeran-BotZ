@@ -2,11 +2,11 @@
 
 modepublic = false
 autoreyad = false
-autoon = false
+autoon = true
 autoketik = false
 autovn = false
-pconly = false
-gconly = false
+pconly = true
+gconly = true
 rpc = false
 rgc = false
 
@@ -228,7 +228,7 @@ if (opts['swonly'] && m.chat !== 'status@broadcast') return
             name: this.getName(m.sender),
             age: -1,
             regTime: -1,
-            autolevelup: true,
+            autolevelup: false,
             lastIstigfar: 0,
         }
 
@@ -251,19 +251,19 @@ if (opts['swonly'] && m.chat !== 'status@broadcast') return
           if (!('viewonce' in chat)) chat.viewonce = true
         } else global.db.data.chats[m.chat] = {
           isBanned: false,
-          welcome: true,
-          detect: true,
+          welcome: false,
+          detect: false,
           sWelcome: '',
           sBye: '',
           sPromote: '',
           sDemote: '',
-          descUpdate: true,
+          descUpdate: false,
           delete: false,
-          rpg: true,
+          rpg: false,
           nsfw: false,
-          antiBadword: true,
-          antiLink: true,
-          viewonce: true,
+          antiBadword: false,
+          antiLink: false,
+          viewonce: false,
         }
         
                 let settings = global.db.data.settings[this.user.jid]
@@ -281,10 +281,10 @@ if (opts['swonly'] && m.chat !== 'status@broadcast') return
           if (!isNumber(settings.status)) settings.status = 0
         } else global.db.data.settings[this.user.jid] = {
           anon: false,
-          //anticall: true,
+          anticall: true,
           antispam: true,
           antitroli: true,
-          backup: true,
+          backup: false,
           backupDB: 0,
           groupOnly: false,
           jadibot: false,
