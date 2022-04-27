@@ -26,12 +26,12 @@ supaya saya menambahkan nama Anda disini
 >>> BOLEH MENAMBAHKAN, JANGAN MENGHILANGKAN <<<
 */
 
-global.linkGC = ['https://chat.whatsapp.com/tytyd.com'] // ganti jadi group lu
+global.linkGC = [''] // ganti jadi group lu
 
 //Berbagai itu indah @Parel / Rxfly 
-global.owner = ['6289677763976', '+7 922 481-65-16', '+6285724447078', '+6285860146165'] // Put your number here
-global.mods = ['2'] // Want some help?
-global.prems = ['1'] // Premium user has unlimited limit
+global.owner = ['6287822257028', '+17786558056', '6287832147584'] // Put your number here
+global.mods = ['+17786558056', '6287822257028'] // Want some help?
+global.prems = ['+17786558056', '6287822257028'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
