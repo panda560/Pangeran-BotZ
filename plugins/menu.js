@@ -8,7 +8,7 @@ const chats = conn.chats.all()
 const groups = chats.filter(v => v.jid.endsWith('g.us'))
 const defaultMenu = {
   before: `
-┏━━〔 %me 〕━⬣
+┏━━〔 ${namabot} 〕━⬣
 ┃⬡ Hai, %name!
 ┃
 ┃⬡ Tersisa *%limit Limit*
@@ -23,7 +23,7 @@ const defaultMenu = {
 ┃⬡ Uptime: *%uptime (%muptime)*
 ┃⬡ Database: %rtotalreg dari %totalreg
 ┃⬡ Github:
-┃⬡ %github
+┃⬡ https://instagram.com/kokopangeran_
 ┗━━━━━━⬣`.trimStart(),
   header: '┏━━〔 %category 〕━⬣',
   body: '┃⬡%cmd %islimit %isPremium',
