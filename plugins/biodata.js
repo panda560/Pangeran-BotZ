@@ -12,8 +12,8 @@ let handler = async (m, { conn, text }) => {
 
 *${namaig}*
 *${namagh}*
-*Facebook* : --
-*Youtube* : --
+*Facebook* : g main, alay!
+*Youtube* : lagi di buat:)
 
 _Oky Arigatoddd_
 
