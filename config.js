@@ -29,9 +29,9 @@ supaya saya menambahkan nama Anda disini
 global.linkGC = [''] // ganti jadi group lu
 
 //Berbagai itu indah @Parel / Rxfly 
-global.owner = ['6287822257028', '+17786558056', '6287832147584'] // Put your number here
-global.mods = ['+17786558056', '6287822257028'] // Want some help?
-global.prems = ['+17786558056', '6287822257028'] // Premium user has unlimited limit
+global.owner = ['62 812-7367-7810', '62 819-5929-3465', '62 812-7367-7810'] // Put your number here
+global.mods = ['62 812-7367-7810', '62 838-6762-6349'] // Want some help?
+global.prems = ['62 819-5929-3465', '62 812-7367-7810'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -57,13 +57,13 @@ global.APIKeys = { // APIKey Here
 global.packname = 'Create By'
 //global.author = 'LitRHap'
 //global.packname = './RyuuZeyy\n\n\n./RyuuTod\n\n\n\n\nhttps://wa.me/message/MJKHC7377YLDA1\n\n\n\n\nwa.me/62896-7776-3976\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = 'ig:@kokopangeran_'
+global.author = 'ig:@arrezza20'
 
 // silakan di ganti klo mau
-global.wait = '_*Tunggu Sebentar, Kami Sedang Entot💦*_'
+global.wait = '_*Tunggu Sebentar, Kami Sedang Proses*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
-global.eror = '_*Server Error Beb💦*_'
+global.eror = '_*Server Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
